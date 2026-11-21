@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 120" role="img" aria-labelledby="title desc">
   <title id="title">Cascade Current Rafting logo</title>
   <desc id="desc">A blue mountain above a river and the words Cascade Current</desc>
-  <rect width="240" height="120" rx="18" fill="#e0f2fe"/>
+  <rect width="240" height="120" fill="#e0f2fe"/>
   <path d="M20 70 75 20l35 32 28-24 82 42H20Z" fill="#075985"/>
   <path d="M20 78c35-18 58 18 94 0s56 18 106 0v18H20Z" fill="#f4a261"/>
   <text x="120" y="111" text-anchor="middle" font-family="Arial" font-size="17" font-weight="700" fill="#123044">CASCADE CURRENT</text>
