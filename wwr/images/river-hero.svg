@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 550" role="img" aria-labelledby="title">
+  <title id="title">Rafting on a mountain river</title>
+  <defs><linearGradient id="sky" x2="0" y2="1"><stop stop-color="#7dd3fc"/><stop offset="1" stop-color="#e0f2fe"/></linearGradient><linearGradient id="water" x2="0" y2="1"><stop stop-color="#38bdf8"/><stop offset="1" stop-color="#075985"/></linearGradient></defs>
+  <rect width="1200" height="550" fill="url(#sky)"/>
+  <path d="M0 300 230 90l170 155L610 50l230 205L1020 110l180 150v120H0Z" fill="#123044"/>
+  <path d="M0 360c230-100 310 40 510-20 205-62 330 55 690-65v275H0Z" fill="url(#water)"/>
+  <path d="M0 430c250-70 390 75 615-5 210-75 300 35 585-35v40c-250 80-380-20-590 55-230 80-360-65-610 15Z" fill="#bae6fd" opacity=".85"/>
+  <path d="M480 340h190l-28 58H510Z" fill="#f97316"/><circle cx="535" cy="325" r="20" fill="#f4a261"/><circle cx="625" cy="325" r="20" fill="#f4a261"/>
+</svg>
